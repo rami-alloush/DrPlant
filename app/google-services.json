@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "535717817492",
+    "firebase_url": "https://drplant-20fc7.firebaseio.com",
+    "project_id": "drplant-20fc7",
+    "storage_bucket": "drplant-20fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535717817492:android:0d00fafb8b22887b",
+        "android_client_info": {
+          "package_name": "net.rmasoft.drplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535717817492-2a3jjhope0417knhkfuj01cogp8jtnt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.rmasoft.drplant",
+            "certificate_hash": "d11dda04ad979a6b858a6b2011ae363cbe9138b9"
+          }
+        },
+        {
+          "client_id": "535717817492-37v3lu38a3blm0l3ann3qp3en2hbfms4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.rmasoft.drplant",
+            "certificate_hash": "adfe6243441f88feb6c98423d835ac86cf0525ac"
+          }
+        },
+        {
+          "client_id": "535717817492-j16scm83lh3ebus9ketp7o62bkfd6fre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOcrw2gnBTHrD7TFJES3NxrJ0MRz-jps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535717817492-j16scm83lh3ebus9ketp7o62bkfd6fre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

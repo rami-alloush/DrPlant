@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dr. Plant</string>
+    <string name="title_home">Home</string>
+    <string name="load_image">Load Image</string>
+    <string name="title_communication">Contact Us</string>
+    <string name="no_image_picked">You haven\'t picked Image</string>
+    <string name="title_diseases">Diseases Library</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="causes">Causes</string>
+    <string name="precautions">Precautions</string>
+    <string name="remedy">Remedy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="title_research">Our Research</string>
+    <string name="no_content_or_internet">No content available on the server,\nor you don\'t have internet connection</string>
+    <string name="image_analysis">Image Analysis</string>
+    <string name="healthy">Healthy :)</string>
+    <string name="details">Details</string>
+    <string name="usage">Usage</string>
+    <string name="warnings">Warnings</string>
+    <string name="data_uploaded">Data uploaded successfully :)</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="more_details_about_disease">The plant has disease:</string>
+    <string name="useful_pesticides">Useful Pesticides</string>
+    <string name="allow_location_access">You need to allow access to Location.</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="save_image">Save Image</string>
+    <string name="take_image">Take Image</string>
+</resources>

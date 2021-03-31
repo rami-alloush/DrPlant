@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33691e</color>
+    <color name="colorPrimaryDark">#1b5e20</color>
+    <color name="colorAccent">#795548</color>
+    <color name="colorBKG">#66bb6a</color>
+
+    <color name="fui_bgEmail">#1b5e20</color>
+</resources>

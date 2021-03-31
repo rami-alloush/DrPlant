@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrPlant</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="load_image">تحميل صورة</string>
+    <string name="title_communication">اتصل بنا</string>
+    <string name="no_image_picked">لم يتم اختيار اي صورة</string>
+    <string name="title_diseases">المكتبة الزراعية</string>
+    <string name="symptoms">الأعراض</string>
+    <string name="causes">المسببات</string>
+    <string name="precautions">الإجراءات الوقائية</string>
+    <string name="remedy">الإجراءات العلاجية</string>
+    <string name="navigation_drawer_open">فتح القائمة</string>
+    <string name="navigation_drawer_close">إغلاق القائمة</string>
+    <string name="nav_header_desc">رأس القائمة</string>
+    <string name="share">مشاركة</string>
+    <string name="communicate">تواصل</string>
+    <string name="title_research">توصيات المركز</string>
+    <string name="no_content_or_internet">لا يوجد محتوى على السيرفر،\nأو أنك لا تملك اتصال بالأنترنت</string>
+    <string name="image_analysis">تحليل الصورة</string>
+    <string name="healthy">سليم :)</string>
+    <string name="details">التفاصيل</string>
+    <string name="usage">الاستخدام</string>
+    <string name="warnings">التحذيرات</string>
+    <string name="data_uploaded">تم رفع البيانات بنجاح :)</string>
+    <string name="upload_data">رفع البيانات</string>
+    <string name="more_details_about_disease">" النبتة تعاني من مرض:"</string>
+    <string name="allow_location_access">يجب السماح للتطبيق للوصول لمعلومات الموقع ليتم حفظها مع الصورة</string>
+    <string name="OK">حسناً</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="save_image">حفظ الصورة</string>
+    <string name="useful_pesticides">يمكنك مكافحة المرض باستخدام احد المبيدات:</string>
+    <string name="take_image">التقاط صورة</string>
+</resources>
